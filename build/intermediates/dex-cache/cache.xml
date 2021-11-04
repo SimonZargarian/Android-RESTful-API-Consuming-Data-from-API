@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_164a88c604e20c5d49c6e506391874441d45e13e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_5cd20202cc46da39b1cc0b58d06672ef965d8435\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b0c0d01424bf14d50242720b44f0e2cd2fee4fd5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="073a79d1c3efc898c1ddd7f387c4beb384582d11">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_521a105e2c3388e7efa822c1cfc7c3e241551796\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ea83461dde82eb33746c7fbbe59c24f47a30fb97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.0_d73c4c315975a73dcf7f6fd766a56cc4d0f748d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_d3543e3b555b7844f234916bd97ff6f8cda13bcd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_b0a7fbb1a94330d645fb0bbf8386fdfd13059eaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_7ea1cba174cda248bf7c97d44bb9776b2a3753d4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_b1a41267341fe9a4abb5fa61709ba0e63bf4b54d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_776efb1eb0125fa3e707c63aae160c24bf01a30c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_637394141d0e2ad610ca191922552d269265379b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_d5998db0858518b6ea1b27a225a0cf645dda2436\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_2883b11dd3d120847721e7f124124e07c2abcd84\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_a45d2df87970418baa26732ae8df5da30e38ee0f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_efb33aec811ce61ed43cd9d72b6ab5301412c310\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_3d30dd2b0cb1d553e02ffa7d6794e0f996a028c7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_7ede9008257779181d676df90ac918d080d44ed2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_edbdb4695b7d83616cd07ef339510064d7a2de06\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2957a71113adc21af4dea1444583239b4fd1965e">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e1b48690cb521ca8ad89a14beea978931438ee3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_2b2f1bc941f5687e60cb882da65a089f0dd6051f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f5874c1ad23154f02f8e15029527510d628ddd18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Vyara\Desktop\APICourseProjects\GitHubAPI\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_11032ba5b0fa77457fe2b0fa60fca4884a8b011b\classes.dex" />
+    </item>
+
+</items>
